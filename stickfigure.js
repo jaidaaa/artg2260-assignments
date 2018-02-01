@@ -1,4 +1,5 @@
 /*
+ARTG2260
 Jaida Mercurio
 Assignment 1.0
 Stick Figure:  Jaida While Coding

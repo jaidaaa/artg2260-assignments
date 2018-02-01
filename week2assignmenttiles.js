@@ -20,6 +20,7 @@ var circumference = separation/4;
 
 
 function draw() {
+  
   for (var x = -separation; x <= width; x+=separation) {
     for (var y = -separation; y <= height; y+=separation) {
       tile(x, y);
